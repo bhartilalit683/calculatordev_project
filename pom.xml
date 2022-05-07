@@ -45,7 +45,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>Calculator_Devops</mainClass>
+                                    <mainClass>calculator</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
