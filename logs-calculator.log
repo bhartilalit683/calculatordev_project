@@ -1,0 +1,516 @@
+2022-05-05 18:41:10.030 [calculator.java] [INFO] calculator [SQ ROOT] - 36.0
+2022-05-05 18:41:10.042 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 6.0
+2022-05-05 18:41:16.587 [calculator.java] [INFO] calculator [SQ ROOT] - 34.0
+2022-05-05 18:41:16.588 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 5.830951894845301
+2022-05-05 18:42:09.521 [calculator.java] [INFO] calculator [POWER - 23.0 RAISED TO] -8.0
+2022-05-05 18:42:09.522 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.2769600540865912E-11
+2022-05-05 18:42:19.670 [calculator.java] [ERROR] calculator invalid data
+2022-05-05 18:42:19.671 [calculator.java] [INFO] calculator [SQ ROOT] - -23.0
+2022-05-05 18:42:19.673 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-06 23:44:21.171 [calculator.java] [INFO] calculator [SQ ROOT] - 23.0
+2022-05-06 23:44:21.181 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 4.795831523312719
+2022-05-07 00:04:54.303 [calculator.java] [INFO] calculator [Add 6 TO] 7
+2022-05-07 00:04:54.307 [calculator.java] [INFO] calculator [RESULT - ADDITION] - 13
+2022-05-07 00:05:28.895 [calculator.java] [INFO] calculator [POWER - 42.0 RAISED TO] 0.5
+2022-05-07 00:05:28.896 [calculator.java] [INFO] calculator [RESULT - POWER] - 6.48074069840786
+2022-05-07 00:05:47.054 [calculator.java] [INFO] calculator [POWER - 23.0 RAISED TO] 0.34
+2022-05-07 00:05:47.056 [calculator.java] [INFO] calculator [RESULT - POWER] - 2.90393883210477
+2022-05-07 00:08:20.647 [calculator.java] [INFO] calculator [NATURAL LOG] - 67.0
+2022-05-07 00:08:20.648 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 4.204692619390966
+2022-05-07 00:08:43.815 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.9
+2022-05-07 00:08:43.817 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.589235205116581
+2022-05-07 00:09:01.679 [calculator.java] [INFO] calculator [NATURAL LOG] - 0.0
+2022-05-07 00:09:01.680 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - -Infinity
+2022-05-07 00:17:50.092 [calculator.java] [INFO] calculator [Add 6 TO] 9
+2022-05-07 00:17:50.102 [calculator.java] [INFO] calculator [RESULT - ADDITION] - 15
+2022-05-07 00:20:35.878 [calculator.java] [INFO] calculator 56 mod 6
+2022-05-07 00:20:35.889 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 00:23:12.561 [calculator.java] [INFO] calculator -12 mod 5
+2022-05-07 00:23:12.562 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 3
+2022-05-07 01:31:04.811 [calculator.java] [INFO] calculator 34 mod 2
+2022-05-07 01:31:04.831 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 01:31:35.943 [calculator.java] [INFO] calculator 45 mod 2
+2022-05-07 01:31:35.944 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 01:32:23.941 [calculator.java] [INFO] calculator 34 mod 5
+2022-05-07 01:32:23.942 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 4
+2022-05-07 01:33:07.939 [calculator.java] [INFO] calculator 34 mod 7
+2022-05-07 01:33:07.952 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 6
+2022-05-07 01:40:44.837 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 01:40:44.847 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 02:44:44.149 [calculator.java] [INFO] calculator 67 mod 8
+2022-05-07 02:44:44.170 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 3
+2022-05-07 13:02:20.218 [calculator.java] [INFO] calculator 78 mod 9
+2022-05-07 13:02:20.235 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 6
+2022-05-07 13:07:06.756 [calculator.java] [INFO] calculator 56 mod 55
+2022-05-07 13:07:06.757 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 16:46:38.071 [calculator.java] [INFO] calculator 36 mod 7
+2022-05-07 16:46:38.083 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 22:35:50.796 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:35:50.800 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:35:50.800 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:35:50.801 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:35:50.801 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:35:50.802 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 22:35:50.803 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 720.0
+2022-05-07 22:35:50.813 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 22:35:50.813 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 22:35:50.814 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:35:50.814 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:35:50.815 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:35:50.816 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:35:50.816 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:35:50.817 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:35:50.817 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:35:50.818 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:35:50.819 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 22:35:50.820 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 22:35:50.821 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 22:35:50.822 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 22:35:50.823 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 22:35:50.823 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 22:35:50.824 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:35:50.824 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:35:50.825 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:35:50.827 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 22:35:50.827 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 22:35:50.828 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:35:50.828 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 22:35:50.829 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 22:35:50.830 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 22:35:50.834 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 2.0
+2022-05-07 22:35:50.834 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:35:50.835 [calculator.java] [INFO] calculator [FACTORIAL] - -5.0
+2022-05-07 22:35:50.836 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 22:36:30.829 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:36:30.835 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:36:30.836 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:36:30.836 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:36:30.837 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:36:30.839 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 22:36:30.840 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 720.0
+2022-05-07 22:36:30.855 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 22:36:30.856 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 22:36:30.857 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:36:30.857 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:36:30.858 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:36:30.859 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:36:30.860 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:36:30.860 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:36:30.861 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:36:30.861 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:36:30.862 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 22:36:30.863 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 22:36:30.865 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 22:36:30.866 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 22:36:30.867 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 22:36:30.868 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 22:36:30.868 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:36:30.869 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:36:30.869 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:36:30.870 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 22:36:30.871 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 22:36:30.871 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:36:30.872 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 22:36:30.872 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 22:36:30.874 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 22:36:30.874 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 2.0
+2022-05-07 22:36:30.875 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:36:30.876 [calculator.java] [INFO] calculator [FACTORIAL] - -5.0
+2022-05-07 22:36:30.876 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 22:41:50.789 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:41:50.796 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:41:50.796 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:41:50.797 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:41:50.798 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:41:50.799 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 22:41:50.800 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 720.0
+2022-05-07 22:41:50.805 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 22:41:50.806 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 22:41:50.806 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:41:50.807 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:41:50.808 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:41:50.809 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:41:50.809 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:41:50.810 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:41:50.810 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:41:50.811 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:41:50.812 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 22:41:50.812 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 22:41:50.813 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 22:41:50.813 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 22:41:50.815 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 22:41:50.815 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 22:41:50.816 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:41:50.817 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:41:50.818 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:41:50.819 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 22:41:50.819 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 22:41:50.820 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:41:50.820 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 22:41:50.821 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 22:41:50.822 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 22:41:50.822 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 2.0
+2022-05-07 22:41:50.823 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:41:50.823 [calculator.java] [INFO] calculator [FACTORIAL] - -5.0
+2022-05-07 22:41:50.823 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 22:54:12.666 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:54:12.672 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:54:12.673 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:54:12.674 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:54:12.675 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:54:12.677 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 22:54:12.678 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 22:54:12.678 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:54:12.679 [calculator.java] [INFO] calculator [FACTORIAL] - -4.0
+2022-05-07 22:54:12.680 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 22:54:12.684 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 22:54:12.685 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 22:54:12.686 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:54:12.687 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:54:12.688 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:54:12.690 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 22:54:12.691 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 22:54:12.692 [calculator.java] [INFO] calculator -7 mod 2
+2022-05-07 22:54:12.693 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 22:54:12.694 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:54:12.695 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:54:12.696 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:54:12.696 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:54:12.697 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:54:12.698 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 22:54:12.699 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 22:54:12.700 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 22:54:12.700 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 22:54:12.701 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 22:54:12.702 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 22:54:12.703 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:54:12.703 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:54:12.704 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:54:12.705 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 22:54:12.706 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 22:54:12.706 [calculator.java] [INFO] calculator -17 mod 3
+2022-05-07 22:54:12.707 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 22:54:12.709 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 22:54:12.709 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 22:54:12.710 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:54:12.711 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 22:54:12.711 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 22:54:12.713 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 22:54:12.713 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 22:54:12.714 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:54:12.715 [calculator.java] [INFO] calculator [FACTORIAL] - -5.0
+2022-05-07 22:54:12.715 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 22:57:01.352 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:57:01.359 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:57:01.360 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:57:01.361 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:57:01.361 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:57:01.363 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 22:57:01.364 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 22:57:01.364 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:57:01.365 [calculator.java] [INFO] calculator [FACTORIAL] - -4.0
+2022-05-07 22:57:01.366 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 22:57:01.373 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 22:57:01.374 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 22:57:01.375 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:57:01.375 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:57:01.376 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:57:01.378 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 22:57:01.379 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 22:57:01.379 [calculator.java] [INFO] calculator -7 mod 2
+2022-05-07 22:57:01.380 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 22:57:01.380 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:57:01.381 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:57:01.381 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:57:01.382 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:57:01.382 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:57:01.383 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 22:57:01.383 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 22:57:01.384 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 22:57:01.384 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 22:57:01.384 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 22:57:01.385 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 22:57:01.385 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:57:01.386 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:57:01.386 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:57:01.387 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 22:57:01.388 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 22:57:01.388 [calculator.java] [INFO] calculator -17 mod 3
+2022-05-07 22:57:01.389 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 22:57:01.390 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 22:57:01.391 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 22:57:01.392 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:57:01.392 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 22:57:01.393 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 22:57:01.394 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 22:57:01.395 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 22:57:01.396 [calculator.java] [INFO] calculator [FACTORIAL] - 5.0
+2022-05-07 22:57:01.397 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 120.0
+2022-05-07 22:58:01.363 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:58:01.368 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:58:01.369 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:58:01.370 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:58:01.371 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:58:01.373 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 22:58:01.373 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 22:58:01.374 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:58:01.375 [calculator.java] [INFO] calculator [FACTORIAL] - -4.0
+2022-05-07 22:58:01.376 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 22:58:01.385 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 22:58:01.386 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 22:58:01.387 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:58:01.388 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:58:01.390 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:58:01.391 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 22:58:01.392 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 22:58:01.392 [calculator.java] [INFO] calculator -7 mod 2
+2022-05-07 22:58:01.393 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 22:58:01.394 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 22:58:01.395 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 22:58:01.396 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:58:01.396 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 22:58:01.397 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 22:58:01.398 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 22:58:01.398 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 22:58:01.399 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 22:58:01.399 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 22:58:01.400 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 22:58:01.401 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 22:58:01.401 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:58:01.402 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 22:58:01.402 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 22:58:01.404 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 22:58:01.405 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 22:58:01.406 [calculator.java] [INFO] calculator -17 mod 3
+2022-05-07 22:58:01.406 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 22:58:01.409 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 22:58:01.410 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 22:58:01.410 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 22:58:01.410 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 22:58:01.411 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 22:58:01.411 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 22:58:01.412 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 22:58:01.412 [calculator.java] [INFO] calculator [FACTORIAL] - 5.0
+2022-05-07 22:58:01.412 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 120.0
+2022-05-07 23:00:08.782 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:00:08.788 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:00:08.789 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:00:08.790 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:00:08.790 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:00:08.792 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 23:00:08.792 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 23:00:08.793 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:00:08.793 [calculator.java] [INFO] calculator [FACTORIAL] - -4.0
+2022-05-07 23:00:08.794 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 1.0
+2022-05-07 23:00:08.798 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 23:00:08.799 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 23:00:08.799 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:00:08.800 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:00:08.801 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:00:08.802 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 23:00:08.803 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 23:00:08.803 [calculator.java] [INFO] calculator -7 mod 2
+2022-05-07 23:00:08.803 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 23:00:08.805 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:00:08.805 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:00:08.806 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:00:08.806 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:00:08.806 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:00:08.807 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 23:00:08.808 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 23:00:08.808 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 23:00:08.809 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 23:00:08.810 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 23:00:08.810 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 23:00:08.810 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:00:08.811 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:00:08.812 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:00:08.813 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 23:00:08.814 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 23:00:08.814 [calculator.java] [INFO] calculator -17 mod 3
+2022-05-07 23:00:08.815 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 23:00:08.817 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 23:00:08.818 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 23:00:08.818 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:00:08.819 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 23:00:08.819 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 23:00:08.820 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 23:00:08.820 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 23:00:08.820 [calculator.java] [INFO] calculator [FACTORIAL] - 5.0
+2022-05-07 23:00:08.821 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 120.0
+2022-05-07 23:01:48.075 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:01:48.081 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:01:48.083 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:01:48.083 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:01:48.084 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:01:48.086 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 23:01:48.086 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 23:01:48.087 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:01:48.088 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 23:01:48.089 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 23:01:48.090 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:01:48.090 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:01:48.091 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:01:48.093 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 23:01:48.094 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 23:01:48.094 [calculator.java] [INFO] calculator -7 mod 2
+2022-05-07 23:01:48.095 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 23:01:48.103 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:01:48.104 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:01:48.105 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:01:48.105 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:01:48.106 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:01:48.107 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 23:01:48.107 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 23:01:48.108 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 23:01:48.108 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 23:01:48.109 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 23:01:48.110 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 23:01:48.110 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:01:48.110 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:01:48.111 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:01:48.112 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 23:01:48.112 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 23:01:48.113 [calculator.java] [INFO] calculator -17 mod 3
+2022-05-07 23:01:48.113 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 23:01:48.115 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 23:01:48.116 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 23:01:48.116 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:01:48.117 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 23:01:48.118 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 23:01:48.119 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 23:01:48.120 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 23:01:48.121 [calculator.java] [INFO] calculator [FACTORIAL] - 5.0
+2022-05-07 23:01:48.122 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 120.0
+2022-05-07 23:04:36.491 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:04:36.496 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:04:36.497 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:04:36.498 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:04:36.499 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:04:36.500 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 23:04:36.501 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 23:04:36.502 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:04:36.503 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 23:04:36.503 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 23:04:36.504 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:04:36.504 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:04:36.505 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:04:36.506 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 23:04:36.507 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 23:04:36.507 [calculator.java] [INFO] calculator 18 mod 5
+2022-05-07 23:04:36.508 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 3
+2022-05-07 23:04:36.508 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:04:36.509 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:04:36.509 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:04:36.510 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:04:36.510 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:04:36.511 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 23:04:36.511 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 23:04:36.511 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 23:04:36.512 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 23:04:36.512 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 23:04:36.513 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 23:04:36.513 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:04:36.513 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:04:36.514 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:04:36.515 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 23:04:36.515 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 23:04:36.515 [calculator.java] [INFO] calculator -17 mod 3
+2022-05-07 23:04:36.516 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 1
+2022-05-07 23:04:36.521 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 23:04:36.522 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 23:04:36.523 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:04:36.523 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 23:04:36.524 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 23:04:36.526 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 23:04:36.526 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 23:04:36.527 [calculator.java] [INFO] calculator [FACTORIAL] - 5.0
+2022-05-07 23:04:36.527 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 120.0
+2022-05-07 23:05:10.097 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:05:10.103 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:05:10.104 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:10.105 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:05:10.106 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:05:10.108 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 23:05:10.109 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 23:05:10.110 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:10.112 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 23:05:10.113 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 23:05:10.114 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:10.115 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:05:10.116 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:05:10.118 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 23:05:10.118 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 23:05:10.119 [calculator.java] [INFO] calculator 18 mod 5
+2022-05-07 23:05:10.119 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 3
+2022-05-07 23:05:10.120 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:05:10.120 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:05:10.121 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:10.121 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:05:10.122 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:05:10.123 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 23:05:10.124 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 23:05:10.125 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 23:05:10.125 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 23:05:10.126 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 23:05:10.127 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 23:05:10.127 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:10.128 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:05:10.128 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:05:10.129 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 23:05:10.130 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 23:05:10.130 [calculator.java] [INFO] calculator 15 mod 3
+2022-05-07 23:05:10.131 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 23:05:10.133 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 23:05:10.133 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 23:05:10.134 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:10.135 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 23:05:10.135 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 23:05:10.136 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 23:05:10.137 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 23:05:10.137 [calculator.java] [INFO] calculator [FACTORIAL] - 5.0
+2022-05-07 23:05:10.138 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 120.0
+2022-05-07 23:05:47.328 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:05:47.334 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:05:47.335 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:47.336 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:05:47.337 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:05:47.339 [calculator.java] [INFO] calculator [FACTORIAL] - 7.0
+2022-05-07 23:05:47.340 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 5040.0
+2022-05-07 23:05:47.341 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:47.342 [calculator.java] [INFO] calculator [NATURAL LOG] - 3.0
+2022-05-07 23:05:47.343 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.0986122886681098
+2022-05-07 23:05:47.344 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:47.345 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:05:47.347 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:05:47.349 [calculator.java] [INFO] calculator 44 mod 3
+2022-05-07 23:05:47.350 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 2
+2022-05-07 23:05:47.351 [calculator.java] [INFO] calculator 18 mod 5
+2022-05-07 23:05:47.352 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 3
+2022-05-07 23:05:47.354 [calculator.java] [INFO] calculator [SQ ROOT] - 49.0
+2022-05-07 23:05:47.354 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - 7.0
+2022-05-07 23:05:47.355 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:47.356 [calculator.java] [INFO] calculator [SQ ROOT] - -49.0
+2022-05-07 23:05:47.356 [calculator.java] [INFO] calculator [RESULT - SQ ROOT] - NaN
+2022-05-07 23:05:47.358 [calculator.java] [INFO] calculator [POWER - 4.0 RAISED TO] 2.0
+2022-05-07 23:05:47.358 [calculator.java] [INFO] calculator [RESULT - POWER] - 16.0
+2022-05-07 23:05:47.359 [calculator.java] [INFO] calculator [POWER - 3.0 RAISED TO] 0.0
+2022-05-07 23:05:47.359 [calculator.java] [INFO] calculator [RESULT - POWER] - 1.0
+2022-05-07 23:05:47.360 [calculator.java] [INFO] calculator [NATURAL LOG] - 4.0
+2022-05-07 23:05:47.361 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - 1.3862943611198906
+2022-05-07 23:05:47.362 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:47.362 [calculator.java] [INFO] calculator [NATURAL LOG] - -4.0
+2022-05-07 23:05:47.363 [calculator.java] [INFO] calculator [RESULT - NATURAL LOG] - NaN
+2022-05-07 23:05:47.364 [calculator.java] [INFO] calculator 16 mod 8
+2022-05-07 23:05:47.364 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 23:05:47.365 [calculator.java] [INFO] calculator 15 mod 3
+2022-05-07 23:05:47.365 [calculator.java] [INFO] calculator [RESULT - MODULUS] - 0
+2022-05-07 23:05:47.367 [calculator.java] [INFO] calculator [POWER - 2.0 RAISED TO] 8.0
+2022-05-07 23:05:47.367 [calculator.java] [INFO] calculator [RESULT - POWER] - 256.0
+2022-05-07 23:05:47.368 [calculator.java] [ERROR] calculator invalid data
+2022-05-07 23:05:47.369 [calculator.java] [INFO] calculator [POWER - 0.0 RAISED TO] 1.0
+2022-05-07 23:05:47.370 [calculator.java] [INFO] calculator [RESULT - POWER] - 0.0
+2022-05-07 23:05:47.371 [calculator.java] [INFO] calculator [FACTORIAL] - 3.0
+2022-05-07 23:05:47.372 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 6.0
+2022-05-07 23:05:47.373 [calculator.java] [INFO] calculator [FACTORIAL] - 5.0
+2022-05-07 23:05:47.374 [calculator.java] [INFO] calculator [RESULT - FACTORIAL] - 120.0
