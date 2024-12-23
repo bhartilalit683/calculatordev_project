@@ -10,25 +10,26 @@ pool:
     - Agent.Version -gtVersion 2.144.0  # Ensure the agent version is greater than 2.144.0
 
 steps:
-  - task: MavenTool@0
-    inputs:
-      versionSpec: '3.x'  # Specify the Maven version (you can change this if needed)
-      installMaven: true  # Automatically installs Maven if it's not already installed
+  # Step 1: Install Maven using a script (only needed if Maven isn't pre-installed on the agent)
+  - script: |
+      sudo apt update
+      sudo apt install -y maven
+    displayName: 'Install Maven'
 
+  # Step 2: Run Maven Build
   - task: Maven@3
     inputs:
       mavenPomFile: 'pom.xml'  # Path to your pom.xml file
-      goals: 'clean package'  # Goal to clean and build the package
-      options: '-DskipTests=true'  # Optional: skip tests if not needed in the build
+      goals: 'clean install'  # Maven goals to clean and install the dependencies
+      publishJUnitResults: true  # Publish JUnit test results to Azure DevOps
+      testResultsFiles: '**/surefire-reports/TEST-*.xml'  # Path to the generated test results
+      javaHomeOption: 'JDKVersion'  # Optional: Specify JDK version
+      jdkVersionOption: '1.8'  # Specify JDK version (adjust as needed)
+      mavenVersionOption: 'Default'  # Use the default Maven version on the agent
 
-  - task: CopyFiles@2
-    inputs:
-      SourceFolder: '$(Build.ArtifactStagingDirectory)'
-      Contents: '**/*.jar'  # Copy all JAR files
-      TargetFolder: '$(Build.ArtifactStagingDirectory)/output'
-
+  # Step 3: Publish Build Artifacts
   - task: PublishBuildArtifacts@1
     inputs:
-      PathtoPublish: '$(Build.ArtifactStagingDirectory)/output'
-      ArtifactName: 'calculator-artifact'  # Name of the artifact
-      publishLocation: 'Container'  # Publish to build artifacts container
+      PathtoPublish: '$(System.DefaultWorkingDirectory)/target'  # Path to the folder where the build artifacts are stored (e.g., JAR file)
+      ArtifactName: 'drop'  # Name of the artifact to be published
+      publishLocation: 'Container'  # Publish to the build artifacts container
