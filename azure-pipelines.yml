@@ -4,12 +4,11 @@ trigger:
       - main  # Replace with your branch name if different
 
 pool:
-  name: new-pool  # Name of the agent pool
-  demands:
-    - maven  # Ensure the agent has Maven installed
-    - Agent.Version -gtVersion 2.144.0  # Ensure the agent version is greater than 2.144.0
+  name: agent  # Name of the agent pool
+
 
 steps:  # Add the 'steps' key to group tasks
+
   - task: Maven@4
     inputs:
       mavenPomFile: 'pom.xml'
